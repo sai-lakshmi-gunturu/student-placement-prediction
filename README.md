@@ -1,4 +1,4 @@
-# 🎓 student-placement-prediction using Machine Learning
+# 🎓 Student-Placement-Prediction using Machine Learning
 
 ##  📌 Project Overview
 - This project predicts whether a student will get placed based on academic performance, skills, and profile attributes.
@@ -99,4 +99,5 @@ Aspiring Machine Learning & Python Developer
 Give it a ⭐ on GitHub — it motivates me to build more projects!
 
 GitHub: https://github.com/sai-lakshmi-gunturu
+
 LinkedIn: https://linkedin.com/in/sailakshmigunturu
