@@ -69,7 +69,7 @@
 -Model successfully predicts placement status with good accuracy
 -Feature importance highlights CGPA, internships, and skills as key factors
 
-## 🧪 How to Run This Project
+## 🧪 How to Run This Project 
 1) Clone the repository:
 git clone https://github.com/sai-lakshmi-gunturu/student-placement-prediction using Machine Learning.git
 
