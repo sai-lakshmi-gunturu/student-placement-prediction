@@ -64,20 +64,19 @@
 - Precision, Recall, F1-score
 
 ## 📈 Results
-- Random Forest performed better than Logistic Regression
+- Random Forest classifier achieved higher accuracy compared to Logistic Regression
 - Model successfully predicts placement status with good accuracy
 - Feature importance highlights CGPA, internships, and skills as key factors
 
 ## 🧪 How to Run This Project 
 1) Clone the repository:
-   '''bash 
 git clone https://github.com/sai-lakshmi-gunturu/student-placement-prediction.git
 
-2)Navigate to the project folder
+2)Navigate to the project folder:
+cd student-placement-prediction
 
 3)Open the Jupyter Notebook:
- </> Bash
- jupyter notebook
+jupyter notebook
 
 4)Run all cells in student-placement-prediction.ipynb
 
