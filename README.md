@@ -98,5 +98,5 @@ Aspiring Machine Learning & Python Developer
 
 Give it a ⭐ on GitHub — it motivates me to build more projects!
 
-## GitHub: https://github.com/your-username  
-## LinkedIn: https://linkedin.com/in/your-profile
+## GitHub: https://github.com/sai-lakshmi-gunturu
+## LinkedIn: https://linkedin.com/in/sailakshmi gunturu
