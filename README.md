@@ -3,7 +3,6 @@
 ##  📌 Project Overview
 - This project predicts whether a student will get placed based on academic performance, skills, and profile attributes.
 - It uses Machine Learning classification models to analyze student data and provide placement predictions.
-
 - This project is designed as a beginner-to-intermediate ML project, suitable for freshers building a job-ready portfolio.
 
 
@@ -14,7 +13,7 @@
 - Evaluate model performance using standard metrics
 
 ## 📂 Dataset Description
-- The dataset contains the following features:
+ The dataset contains the following features:
 
 | Feature              | Description                           |
 | -------------------- | ------------------------------------- |
@@ -56,7 +55,7 @@
 ## 🤖 Machine Learning Models Used
 - Logistic Regression
 - Random Forest Classifier
-- KNN
+- K-Nearest Neighbors (KNN)
 
 ## 📊 Model Evaluation Metrics
 - Accuracy Score
@@ -71,16 +70,18 @@
 
 ## 🧪 How to Run This Project 
 1) Clone the repository:
+   '''bash 
 git clone https://github.com/sai-lakshmi-gunturu/student-placement-prediction.git
 
 2)Navigate to the project folder
 
 3)Open the Jupyter Notebook:
-jupyter notebook
+ </> Bash
+ jupyter notebook
 
 4)Run all cells in student-placement-prediction.ipynb
 
-## Conclusion
+## 🧾 Conclusion
 This project demonstrates a complete machine learning workflow from data preprocessing to model evaluation.
 
 ## 📌 Future Improvements
@@ -91,12 +92,12 @@ This project demonstrates a complete machine learning workflow from data preproc
 
 
 ## 👩‍💻 Author
-** Sai Lakshmi Gunturu **
+**Sai Lakshmi Gunturu**
 Aspiring Machine Learning & Python Developer
 
 ## ⭐ If you like this project
 
 Give it a ⭐ on GitHub — it motivates me to build more projects!
 
-## GitHub: https://github.com/sai-lakshmi-gunturu
-## LinkedIn: https://linkedin.com/in/sailakshmigunturu
+GitHub: https://github.com/sai-lakshmi-gunturu
+LinkedIn: https://linkedin.com/in/sailakshmigunturu
